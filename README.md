@@ -28,12 +28,6 @@ Desde 2022, quando decidi área da programação, eu venho estudando, sei que te
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffasantos&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-## Olá eu sou William do Amaral Rodrigues
-- 🌱 Formação em  Análise e Desenvolvimento de Sistemas.
-- 🎓 Faculdade Impacta São Paulo- SP.
-- 🔭 Futuro Front-end Developer
-- 🏠 Atualmente morando em São Paulo -SP.
-- 😄 Pronouns: ele/dele.
 <div align="center">
   <a href="https://github.com/raffasantos">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=raffasantos&show_icons=true&theme=highcontrast&includ_all_commits=true&count_private=true"/>
