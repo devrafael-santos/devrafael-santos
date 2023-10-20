@@ -4,7 +4,7 @@ Olá! Tudo bem?
 
 ### Um pouco sobre mim!
 
-Atualmente tenho 8 anos. Desde pequeno sou fascinado por computadores e tecnologia. Por isso, desenvolvi uma
+Atualmente tenho 18 anos. Desde pequeno sou fascinado por computadores e tecnologia. Por isso, desenvolvi uma
 facilidade para mexer no hardware e no software, como limpar o gabinete ou
 trocar peças. Também criei interesse e aprendi ferramentas como: Excel,
 Word, Photoshop e editores de vídeos. Que me ajudaram na minha vida
