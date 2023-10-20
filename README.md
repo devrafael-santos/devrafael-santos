@@ -9,7 +9,7 @@ facilidade para mexer no hardware e no software, como limpar o gabinete ou
 trocar peças. Também criei interesse e aprendi ferramentas como: Excel,
 Word, Photoshop e editores de vídeos. Que me ajudaram na minha vida
 profissional e acadêmica.
-Desde 2022, quando decidi área da programação, eu venho estudando, sei que tenho muito potencial e um futuro brilhante nela!
+Desde 2022, quando decidi seguir na área da programação, eu venho estudando, sei que tenho muito potencial e um futuro brilhante nela!
 
 ### Conecte-se comigo!
 
