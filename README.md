@@ -13,6 +13,7 @@ Desde 2022, quando decidi seguir na área da programação, eu venho estudando, 
 
 ### Conecte-se comigo!
 <div align="center"><br>
+  
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raafael.cs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rafael-costa-316673224/)
 </div>
