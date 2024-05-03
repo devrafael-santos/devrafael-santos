@@ -1,6 +1,5 @@
 
 # Rafael Santos
-Olá! Tudo bem? 
 
 ### Profile:
 
