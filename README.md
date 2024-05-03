@@ -2,16 +2,11 @@
 # Rafael Santos
 Olá! Tudo bem? 
 
-### Um pouco sobre mim!
+### Profile:
 
-Atualmente tenho 18 anos. Desde pequeno sou fascinado por computadores e tecnologia. Por isso, desenvolvi uma
-facilidade para mexer no hardware e no software, como limpar o gabinete ou
-trocar peças. Também criei interesse e aprendi ferramentas como: Excel,
-Word, Photoshop e editores de vídeos. Que me ajudaram na minha vida
-profissional e acadêmica.
-Desde 2022, quando decidi seguir na área da programação, eu venho estudando, sei que tenho muito potencial e um futuro brilhante nela!
+Hello, my name is Rafael! Since 2022 I have been studying programming. I'm currently studying the 1st semester of Systems Analysis and Development at UCSAL, I'm passionate about the Software Development area and learning! I consider myself a studious, determined, kind professional who likes to solve problems and overcome challenges.
 
-### Conecte-se comigo!
+### Get in touch with me!
 <div align="center"><br>
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raafael.cs@gmail.com)
