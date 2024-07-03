@@ -18,7 +18,6 @@ Hello, my name is Rafael! Since 2022 I have been studying programming. I'm curre
 <div align="center"><br>
   <a href="https://github.com/devrafael-santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafael-santos&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafael-santos&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
 
