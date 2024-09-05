@@ -3,7 +3,7 @@
 
 ### Profile:
 
-Hello, my name is Rafael! Since 2022 I have been studying programming. I'm currently studying the 1st semester of Systems Analysis and Development at UCSAL, I'm passionate about the Software Development area and learning! I consider myself a studious, determined, kind professional who likes to solve problems and overcome challenges.
+Estou no mundo da computação desde os meus 12 anos. Participei da OBI (Olimpiada Brasileira de Informática) e da Maratona de Programaçao. Atualmente, cursando o 2º semestre de Engenharia de Software na UCSAL, tenho experiência em lógica de programação, banco de dados MySQL e estou aprimorando meus conhecimentos em Java. Sou apaixonado pela área de desenvolvimento e estou sempre em busca de novos desafios, com foco em soluções eficazes e aprendizado constante.
 
 ### Get in touch with me!
 <div align="center"><br>
