@@ -9,7 +9,7 @@ Estou no mundo da computação desde os meus 12 anos. Participei da OBI (Olimpia
 <div align="center"><br>
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raafael.cs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/devrafael-santos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/devrafael-santos)
 </div>
 
 
