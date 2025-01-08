@@ -3,7 +3,7 @@
 
 ### Profile:
 
-Estou no mundo da computação desde os meus 12 anos. Participei da OBI (Olimpiada Brasileira de Informática) e da Maratona de Programaçao. Atualmente, cursando o 2º semestre de Engenharia de Software na UCSAL, tenho experiência em lógica de programação, banco de dados MySQL e estou aprimorando meus conhecimentos em Java. Sou apaixonado pela área de desenvolvimento e estou sempre em busca de novos desafios, com foco em soluções eficazes e aprendizado constante. Também sou uma pessoa muito curiosa! 🤓
+Estou no mundo da computação desde os meus 12 anos. Participei da OBI (Olimpiada Brasileira de Informática) e da Maratona de Programaçao. Atualmente, cursando o 3º semestre de Engenharia de Software na UCSAL, tenho experiência em banco de dados MySQL e estou aprimorando meus conhecimentos em Java. Sou apaixonado pela área de desenvolvimento e estou sempre em busca de novos desafios, com foco em soluções eficazes e aprendizado constante. Também sou uma pessoa muito curiosa! 🤓
 
 ### Get in touch with me!
 <div align="center"><br>
