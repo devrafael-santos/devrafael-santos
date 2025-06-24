@@ -3,7 +3,18 @@
 
 ### Profile:
 
-Estou no mundo da computação desde os meus 8 anos. Participei da OBI (Olimpiada Brasileira de Informática) e da Maratona de Programaçao. Atualmente, cursando o 2º semestre de Engenharia de Software na UCSAL, tenho experiência em banco de dados MySQL e estou aprimorando meus conhecimentos em Java. Sou apaixonado pela área de desenvolvimento e estou sempre em busca de novos desafios, com foco em soluções eficazes e aprendizado constante. Também sou uma pessoa muito curiosa! 🤓
+Desenvolvedor com 3 anos de estudo com mais de 1 ano e meio de experiência como Suporte
+TI buscando a primeira oportunidade de júnior e com vontade de impactar o dia a dia do
+cliente com software de ponta, eficiente, escalável e inovador. Também tenho interesse em
+aprender outras tecnologias, como Go, Vue, React, PHP.
+
+Possuo conhecimento avançado em Java, TypeScript/JavaScript, NodeJS em criação de API's RESTful
+com Spring Boot, NestJS, utilizando banco de dados relacional PostgreSQL. Conhecimento
+básico em Docker.
+Conhecimento de boas práticas e infraestrutura: TDD, SOLID, DDD, Clean Code, DRY, "Tell,
+Don't Ask", Testes automatizados, Docker, Queues, Microsserviços, Swagger, Prometheus, Git
+CI/CD, Desenvolvimento ágil, Scrum, Kanban.
+
 
 ### Get in touch with me!
 <div align="center"><br>
