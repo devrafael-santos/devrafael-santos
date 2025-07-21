@@ -3,17 +3,14 @@
 
 ### Profile:
 
-Desenvolvedor com 3 anos de estudo com mais de 1 ano e meio de experiência como Suporte
-TI buscando a primeira oportunidade de júnior e com vontade de impactar o dia a dia do
-cliente com software de ponta, eficiente, escalável e inovador. Também tenho interesse em
-aprender outras tecnologias, como Go, Vue, React, PHP.
+Desenvolvedor com 3 anos de estudos buscando a primeira oportunidade de estágio como
+desenvolvedor back-end
 
 Possuo conhecimento avançado em Java, TypeScript/JavaScript, NodeJS em criação de API's RESTful
 com Spring Boot, NestJS, utilizando banco de dados relacional PostgreSQL. Conhecimento
 básico em Docker.
 Conhecimento de boas práticas e infraestrutura: TDD, SOLID, DDD, Clean Code, DRY, "Tell,
-Don't Ask", Testes automatizados, Docker, Queues, Microsserviços, Swagger, Prometheus, Git
-CI/CD, Desenvolvimento ágil, Scrum, Kanban.
+Don't Ask", Docker, Estrutura de dados, Swagger, Prometheus, Git/Github, Desenvolvimento ágil, Scrum, Kanban.
 
 
 ### Get in touch with me!
