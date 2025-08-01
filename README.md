@@ -3,14 +3,7 @@
 
 ### Profile:
 
-Desenvolvedor com 3 anos de estudos buscando a primeira oportunidade de estágio como
-desenvolvedor back-end
-
-Possuo conhecimento avançado em Java, TypeScript/JavaScript, NodeJS em criação de API's RESTful
-com Spring Boot, NestJS, utilizando banco de dados relacional PostgreSQL. Conhecimento
-básico em Docker.
-Conhecimento de boas práticas e infraestrutura: TDD, SOLID, DDD, Clean Code, DRY, "Tell,
-Don't Ask", Docker, Estrutura de dados, Swagger, Prometheus, Git/Github, Desenvolvimento ágil, Scrum, Kanban.
+Desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 
 
 ### Get in touch with me!
