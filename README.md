@@ -20,7 +20,7 @@
       Me considero gentil, atencioso, acolhedor, determinado, competitivo, ambicioso e muito capacitado.<br>
   </div>
   
-  <img align="right" alt="cat-coding" height="300" width="200" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
+  <img alt="cat-coding" height="300" width="200" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
 
 </div>
 
