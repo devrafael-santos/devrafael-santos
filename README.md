@@ -11,7 +11,7 @@
   Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 </h4>
 
-<table border="0" cellpadding="0">
+<table>
   <tr>
     <td valign="top">
       <h4>
