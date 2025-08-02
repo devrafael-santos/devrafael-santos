@@ -1,10 +1,12 @@
 
 <h1 align="center"> Rafael Santos </h1>
 
-![hollow-knight-reading-map-pixel-art](https://github.com/user-attachments/assets/504be125-5acd-4ec3-a956-1c311bc687ad)
+<div align="center" style="display: flex">
 
-<div align="center" >
-Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
+  ![hollow-knight-reading-map-pixel-art](https://github.com/user-attachments/assets/3d57e53c-99fd-4e7a-9f3f-d06e63ed1708)
+
+
+  Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 </div>
 
 ### Get in touch with me!
