@@ -34,8 +34,8 @@
 ### Entre em contato comigo!
 <div align="center"><br>
   
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raafael.cs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/devrafael-santos)
+[![E-mail](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](mailto:raafael.cs@gmail.com)
+[![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/devrafael-santos)
 </div>
 
 
