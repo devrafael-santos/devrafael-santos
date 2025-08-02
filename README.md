@@ -32,7 +32,7 @@
 <br>
 
 ### Entre em contato comigo!
-<div align="center"><br>
+<div align="center" height="50"><br>
   
 [![E-mail](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](mailto:raafael.cs@gmail.com)
 [![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/devrafael-santos)
