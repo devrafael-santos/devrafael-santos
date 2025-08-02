@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <div style="text-align: start" width="100" height="100">
+  <div align="right">
       Sou apaixonado pela área da computação desde os meus 4 anos de idade, 
       quando tive a oportunidade de jogar CS, Need For Speed: Most Wanted e o Underground 2. 
       Desde então, nunca me separei do computador e, em 2022, comecei a estudar sobre desenvolvimento de software. 
@@ -20,7 +20,7 @@
       Me considero gentil, atencioso, acolhedor, determinado, competitivo, ambicioso e muito capacitado.
   </div>
   
-  <img alt="cat-coding" height="300" width="200" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
+  <img align="left" alt="cat-coding" height="300" width="200" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
 
 </div>
 
