@@ -12,7 +12,7 @@
 </h4>
 
 <div style="display: inline_block">
-  <h4 width="50" align="left">
+  <h4 style="width: 100px" align="left">
       Sou apaixonado pela área da computação desde os meus 4 anos de idade, 
       quando tive a oportunidade de jogar CS, Need For Speed: Most Wanted e o Underground 2. 
       Desde então, nunca me separei do computador e, em 2022, comecei a estudar sobre desenvolvimento de software. 
