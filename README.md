@@ -19,9 +19,11 @@
       Em 2024 tive a oportunidade de estudar na Universidade Católica do Salvador, onde estou cusando Engenharia de Software. 
       Me considero gentil, atencioso, acolhedor, determinado, competitivo, ambicioso e muito capacitado.
   </h4>
-  
-  <img align="right" height="500" alt="cat-coding" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
 
+  <h4>
+  <img align="right" height="500" alt="cat-coding" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
+  </h4>
+  
 </div>
 <br>
 
