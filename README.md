@@ -33,8 +33,9 @@
 
 ### Entre em contato comigo!
 <div align="center" height="50"><br>
-  
-[![E-mail](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](mailto:raafael.cs@gmail.com)
+
+<a align="center" alt="Rafa-Email" height="30" width="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" mailto="raafael.cs@gmail.com">
+[![E-mail]()](mailto:raafael.cs@gmail.com)
 [![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/devrafael-santos)
 </div>
 
@@ -49,7 +50,7 @@
 
   # 💻 Tech Stack:
   <div style="display: inline_block" align="center"><br><br>
-  <img align="center" alt="Rafa-Java" height="600" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Rafa-Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="Rafa-Spring" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
