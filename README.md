@@ -7,7 +7,7 @@
 
 </div>
 
-<h4>
+<h4 align="left">
   Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 </h4>
 
