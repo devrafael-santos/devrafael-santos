@@ -4,7 +4,8 @@
 <div align="center" style="display: flex">
   <div>
     
-  ![hollow-knight-reading-map-pixel-art](https://github.com/user-attachments/assets/b0274c9d-64a0-4a1f-b0ab-7890cfea2471)
+  ![hollow-knight-reading-map-pixel-art](https://github.com/user-attachments/assets/ce593ded-b161-41de-8663-3d122fcfe013)
+
   </div>
 
   <div>
