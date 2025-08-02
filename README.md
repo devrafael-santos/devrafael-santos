@@ -12,13 +12,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <div align="left">
+  <h4 align="left">
       Sou apaixonado pela área da computação desde os meus 4 anos de idade, 
       quando tive a oportunidade de jogar CS, Need For Speed: Most Wanted e o Underground 2. 
       Desde então, nunca me separei do computador e, em 2022, comecei a estudar sobre desenvolvimento de software. 
       Em 2024 tive a oportunidade de estudar na Universidade Católica do Salvador, onde estou cusando Engenharia de Software. 
       Me considero gentil, atencioso, acolhedor, determinado, competitivo, ambicioso e muito capacitado.
-  </div>
+  </h4>
   
   <img align="right" height="197" alt="cat-coding" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
 
