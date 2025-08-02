@@ -11,7 +11,8 @@
   Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 </h4>
 
-  <h4 align="left">
+<div style="display: flex;">
+  <h4 style="width: 50%;" align="left">
       Sou apaixonado pela área da computação desde os meus 4 anos de idade, 
       quando tive a oportunidade de jogar CS, Need For Speed: Most Wanted e o Underground 2. 
       Desde então, nunca me separei do computador e, em 2022, comecei a estudar sobre desenvolvimento de software. 
@@ -21,6 +22,7 @@
   
   <img align="right" height="500" alt="cat-coding" src="https://gifdb.com/images/high/smart-cat-at-laptop-pc-0onntgj5bnj72p09.webp">
 
+</div>
 <br>
 
 ### Entre em contato comigo!
