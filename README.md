@@ -2,7 +2,7 @@
 <h1 align="center"> Rafael Santos </h1>
 
 <div align="center" style="display: flex">
-  <p>
+  <p  align="center">
     ![hollow-knight-reading-map-pixel-art](https://github.com/user-attachments/assets/732cc7a9-fe8c-45a2-bf32-7a688645e579)
   </p>
 
