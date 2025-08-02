@@ -1,10 +1,10 @@
 
-# Rafael Santos
+<div align="center"> # Rafael Santos </div>
 
-### Profile:
+![Uploading hollow-knight-reading-map-pixel-art.gif…]()
 
-Desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 
+Olá! Sou o Rafael Costa dos Santos, desenvolvedor Java back-end com foco na construção de APIs RESTful com Spring Boot. Apaixonado por tecnologia e resolução de problemas, com experiência prática em projetos acadêmicos e pessoais utilizando arquiteturas limpas e boas práticas como TDD e SOLID.
 
 ### Get in touch with me!
 <div align="center"><br>
