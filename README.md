@@ -49,22 +49,23 @@
 
   # 💻 Tech Stack:
   <div style="display: inline_block" align="center"><br><br>
-  <img align="center" alt="Rafa-Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Rafa-Spring" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="Rafa-Angular" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Rafa-postgres" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"> 
-  <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
+      <img align="center" alt="Rafa-Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+      <img align="center" alt="Rafa-Spring" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+      <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+      <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+      <img align="center" alt="Rafa-Angular" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+      <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+      <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+      <img align="center" alt="Rafa-postgres" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"> 
+      <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
   </div>
 
 
 ---
 
-<img align="left" height="100" width="100" alt="cat-coding" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
+<img align="left" height="100" width="100" alt="hollow-knight-walking" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
 
-<img align="center" src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif" alt="E-mail" height="70" width="70">
-
-<img align="right" src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="LinkedIn" height="50" width="50">
+<div align="right">
+    <img src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif" alt="finn-dancing" height="70" width="70">
+    <img src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="beemo-dancing" height="50" width="50">
+</div>
