@@ -62,10 +62,9 @@
 
 
 ---
-    
+
 <img align="left" height="100" width="100" alt="cat-coding" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
 
-<div align="right">
-<img src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif" alt="E-mail" height="70" width="70">
-<img src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="LinkedIn" height="50" width="50">
-</div>
+<img align="center" src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif" alt="E-mail" height="70" width="70">
+
+<img align="right" src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="LinkedIn" height="50" width="50">
