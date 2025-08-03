@@ -33,10 +33,9 @@
 
 ### Entre em contato comigo!
 <div align="center" height="50"><br>
-
-<a align="center" alt="Rafa-Email" height="30" width="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" mailto="raafael.cs@gmail.com">
-[![E-mail]()](mailto:raafael.cs@gmail.com)
-[![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/devrafael-santos)
+    
+<a href="mailto:raafael.cs@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="E-mail" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/devrafael-santos"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="30"></a>
 </div>
 
 
