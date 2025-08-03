@@ -64,3 +64,8 @@
 ---
 
 <img align="left" height="100" width="100" alt="cat-coding" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
+
+<div align="right"><br>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="E-mail" height="50" width="50">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50">
+</div>
