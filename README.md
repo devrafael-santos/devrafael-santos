@@ -32,10 +32,10 @@
 <br>
 
 ### Entre em contato comigo!
-<div align="center" height="50"><br>
+<div align="center"><br>
     
-<a href="mailto:raafael.cs@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="E-mail" height="30" width="30"></a>
-<a href="https://www.linkedin.com/in/devrafael-santos"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="30"></a>
+<a href="mailto:raafael.cs@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="E-mail" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/devrafael-santos"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50"></a>
 </div>
 
 
