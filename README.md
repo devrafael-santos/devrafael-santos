@@ -63,4 +63,4 @@
 
 ---
 
-<img align="right" alt="cat-coding" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif">
+<img align="right" alt="cat-coding" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
