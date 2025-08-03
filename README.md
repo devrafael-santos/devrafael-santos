@@ -67,5 +67,5 @@
 
 <div align="right"><br>
 <img src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif" alt="E-mail" height="60" width="60">
-<img src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="LinkedIn" height="50" width="50">
+<img src="https://media.tenor.com/Ls7cVPscFqoAAAAj/boi%CC%87i%CC%87i%CC%87.gif" alt="LinkedIn" height="80" width="80">
 </div>
