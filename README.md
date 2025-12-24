@@ -43,7 +43,7 @@
 # 📊 GitHub Stats:
 <div align="center"><br>
   <a href="https://github.com/devrafael-santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafael-santos&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
+  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=devrafael-santos&theme=dark)
     
 </div>
 
