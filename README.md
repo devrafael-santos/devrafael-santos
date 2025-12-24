@@ -44,7 +44,7 @@
 <div align="center"><br>
   <a href="https://github.com/devrafael-santos">
   ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=devrafael-santos&theme=dark)
-    
+  </a>
 </div>
 
   # 💻 Tech Stack:
