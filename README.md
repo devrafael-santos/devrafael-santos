@@ -40,13 +40,6 @@
 
 
 
-# 📊 GitHub Stats:
-<div align="center"><br>
-  <a href="https://github.com/devrafael-santos">
-  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=devrafael-santos&theme=dark)
-  </a>
-</div>
-
   # 💻 Tech Stack:
   <div style="display: inline_block" align="center"><br><br>
       <img align="center" alt="Rafa-Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
