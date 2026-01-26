@@ -53,14 +53,12 @@
       <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
   </div>
 
-  <p>
   <img 
     align="center" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafael-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  </p>
 ---
 
 <img align="left" height="100" width="100" alt="hollow-knight-walking" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
