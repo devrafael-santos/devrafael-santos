@@ -55,13 +55,12 @@
 
   <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafael-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   </p>
-  
 ---
 
 <img align="left" height="100" width="100" alt="hollow-knight-walking" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
