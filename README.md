@@ -51,9 +51,9 @@
       <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
       <img align="center" alt="Rafa-postgres" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"> 
       <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
-      [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)
   </div>
 
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)
   
 ---
 
