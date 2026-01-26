@@ -53,11 +53,7 @@
       <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
   </div>
 
-  <div style="display: inline_block" align="center">
-      
-      [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)
-      
-  </div>
+  <div style="display: inline_block" align="center">[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)</div>
 ---
 
 <img align="left" height="100" width="100" alt="hollow-knight-walking" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif">
