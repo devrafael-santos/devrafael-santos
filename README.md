@@ -53,6 +53,7 @@
       <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
   </div>
 
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)
 
 ---
 
