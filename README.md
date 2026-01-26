@@ -54,7 +54,9 @@
   </div>
 
   <div style="display: inline_block" align="center">
+      
       [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafael-santos)](https://github.com/devrafael-santos/github-readme-stats)
+      
   </div>
 ---
 
