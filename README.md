@@ -53,6 +53,8 @@
       <img align="center" alt="Rafa-docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
   </div>
 
+
+  
   <div align="center">
       <img 
     align="center" 
@@ -61,6 +63,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafael-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   </div>
+
 
   
 ---
