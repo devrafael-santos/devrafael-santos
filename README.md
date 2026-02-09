@@ -18,7 +18,7 @@
           Sou apaixonado pela área da computação desde os meus 4 anos de idade, 
       quando tive a oportunidade de jogar CS, Need For Speed: Most Wanted e o Underground 2. 
       Desde então, nunca me separei do computador e, em 2022, comecei a estudar sobre desenvolvimento de software. 
-      Em 2024 tive a oportunidade de estudar na Universidade Católica do Salvador, onde estou cursando Engenharia de Software.
+      Em 2024 tive a oportunidade de estudar na Universidade Católica do Salvador, onde estou cursando Engenharia de Software e participo da Fábrica de Software.
       Me considero gentil, atencioso, acolhedor, determinado, competitivo, ambicioso e muito capacitado.
       </h4>
     </td>
