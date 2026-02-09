@@ -46,7 +46,8 @@
       <img align="center" alt="Rafa-Spring" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
       <img align="center" alt="Rafa-Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
       <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-      <img align="center" alt="Rafa-Angular" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+      <img align="center" alt="Rafa-React" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+      <img align="center" alt="Rafa-AWS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
       <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
       <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
       <img align="center" alt="Rafa-postgres" height="60" width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"> 
